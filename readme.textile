@@ -1,0 +1,3 @@
+h1. PiRadio
+
+These are a bunch of scripts (both shell and node.js) to create, at some stage a radio to listen to stations via wifi. Thee platform is a Raspberry Pi Model B 512 Mb running Raspbian (I think).
